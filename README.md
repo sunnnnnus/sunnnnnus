@@ -43,4 +43,4 @@
 ---
 
 📫 歡迎透過 [LinkedIn](https://linkedin.com/in/sunnnnnus) 與我聯絡  
-📁 查看更多履歷與作品：[CakeResume](https://www.cake.me/s--sn9rgLwExHjMQyG8GZCCXw--/weiweisun)
+📁 查看更多履歷與作品：[CakeResume](https://www.cake.me/me/weiweisun)
