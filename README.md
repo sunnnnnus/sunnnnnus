@@ -27,13 +27,13 @@
 
 ## 🧪 個人專案
 
-- 🐾 [寵物用品管理系統](待補)｜Java + MySQL + Swing GUI<br>
+- 🐾 [寵物用品管理系統](https://github.com/sunnnnnus/pet-shop-management-system)｜Java + MySQL + Swing GUI<br>
 　以圖形化介面整合庫存、商品與顧客訂單查詢功能，是資料庫系統課期末成績第一名的專題。
 
 - 🍱 [午餐選擇器](https://github.com/sunnnnnus/lunch-app)｜JavaScript + OpenWeather API + Bootstrap<br>
 　根據天氣、心情與餐點偏好推薦午餐選項，並提供 Google Map 定位導引。
 
-- 🧠 寵物健康初判系統（開發中）｜全端 Web 專案<br>
+- 🧠 寵物健康初判系統（https://github.com/sunnnnnus/pet-health-check）｜全端 Web 專案<br>
 　協助飼主根據寵物姿勢與症狀進行健康初步判斷，目前進行需求分析與系統規劃。
 
 ---
