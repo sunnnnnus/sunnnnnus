@@ -33,7 +33,7 @@
 - 🍱 [午餐選擇器](https://github.com/sunnnnnus/lunch-app)｜JavaScript + OpenWeather API + Bootstrap<br>
 　根據天氣、心情與餐點偏好推薦午餐選項，並提供 Google Map 定位導引。
 
-- 🧠 寵物健康初判系統（https://github.com/sunnnnnus/pet-health-check）｜全端 Web 專案<br>
+- 🧠 [寵物健康初判系統](https://github.com/sunnnnnus/pet-health-check)｜全端 Web 專案<br>
 　協助飼主根據寵物姿勢與症狀進行健康初步判斷，目前進行需求分析與系統規劃。
 
 ---
