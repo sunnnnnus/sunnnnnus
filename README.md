@@ -12,7 +12,7 @@
 
 - 語言與框架：Java、JavaScript、MySQL、Vue.js、（學習中：Node.js）
 - 網頁技術：HTML、CSS、RESTful API、MVC 架構
-- 開發工具：Git、GitHub、VS Code、IntelliJ IDEA、Postman、Vercel
+- 開發工具：Git、GitHub、VS Code、Vercel
 
 ---
 
