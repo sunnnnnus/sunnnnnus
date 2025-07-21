@@ -30,7 +30,7 @@
 　這是一個以 Node.js 建立的互動式小遊戲專案，靈感來自經典推理遊戲「海龜湯」 使用者可以透過前端頁面與後端互動，每次點擊會獲得一題隨機的推理題目。
 
 - 🐾 [寵物用品管理系統](https://github.com/sunnnnnus/pet-shop-management-system)｜Java + MySQL + Swing GUI<br>
-　以圖形化介面整合庫存、商品與顧客訂單查詢功能，是資料庫系統課期末成績第一名的專題。
+　以圖形化介面整合庫存、商品與顧客訂單查詢功能，並分成顧客端及管理員端進行操作。
 
 - 🍱 [午餐選擇器](https://github.com/sunnnnnus/lunch-app)｜JavaScript + OpenWeather API + Bootstrap<br>
 　根據天氣、心情與餐點偏好推薦午餐選項，並提供 Google Map 定位導引。
