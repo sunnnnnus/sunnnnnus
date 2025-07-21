@@ -26,7 +26,7 @@
 ---
 
 ## 🧪 個人專案
-- 🐢 [海龜湯出題機](https://github.com/sunnnnnus/logicGame)｜JavaScript + MySQL + Node.js (全端Web專案)<br>
+- 🐢 [來碗海龜湯](https://github.com/sunnnnnus/logicGame)｜JavaScript + MySQL + Node.js (全端Web專案)<br>
 　這是一個以 Node.js 建立的互動式小遊戲專案，靈感來自經典推理遊戲「海龜湯」 使用者可以透過前端頁面與後端互動，每次點擊會獲得一題隨機的推理題目。
 
 - 🐾 [寵物用品管理系統](https://github.com/sunnnnnus/pet-shop-management-system)｜Java + MySQL + Swing GUI<br>
