@@ -15,8 +15,8 @@
 
 ## 🧪 個人專案
 
-- 🐶 [智能獸醫助理](https://github.com/sunnnnnus/pet-health-check)｜JavaScript + MySQL + Node.js (全端Web專案)<br>
-　協助飼主根據寵物姿勢與症狀進行健康初步判斷，目前進行需求分析與系統規劃。
+- 🐶 [智能獸醫助理](https://github.com/sunnnnnus/pet-health-check)｜Angular + MySQL + Node.js (全端Web專案)<br>
+　協助飼主根據寵物症狀進行AI及醫學資料庫雙重判斷，提供更具準確性的照護引導。
 
 - 🐢 [來碗海龜湯](https://github.com/sunnnnnus/logicGame)｜JavaScript + MySQL + Node.js (全端Web專案)<br>
 　這是一個互動式的邏輯猜謎遊戲平台，玩家可根據題目提示進行提問與猜測，系統會結合 AI 回應進行判斷，讓遊戲更具互動性與智慧性。
