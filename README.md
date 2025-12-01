@@ -1,10 +1,7 @@
 ## Hi there 👋 , 我是Jamie
 
-目前是前端工程師，主修軟體工程，具備 Angular、C#、Java、JavaScript、MySQL、Vue.js、Node.js等技術背景。
+目前是前端工程師，主修軟體工程。
 
-曾創業經營咖啡廳，並擔任過出版社業務與百貨公司樓管，累積豐富的商業實務、行銷推廣與現場管理經驗。這段經歷培養了我對用戶需求的敏感度與跨領域的協作能力。
-
-在創業告一段落後，我選擇重返校園完成學業，專注投入程式設計與專案開發，期望成為具備前後端整合能力的全端工程師，打造實用且貼近用戶需求的溫暖產品。
 
 ---
 
@@ -13,14 +10,6 @@
 - 語言與框架：Java、JavaScript、MySQL、Vue.js、Node.js、Angular、C#
 - 網頁技術：HTML、CSS、RESTful API、MVC 架構
 - 開發工具：Git、GitHub、VS Code、Vercel、Render、Clever Cloud
-
----
-
-## 💼 工作經歷（跨界背景）
-
-- 百貨公司樓管（品牌溝通與現場管理）
-- 自營咖啡廳創辦人（品牌設計與營運實戰）
-- 補習班數學老師（教學與表達）
 
 ---
 
@@ -43,4 +32,3 @@
 
 
 📫 歡迎透過 [LinkedIn](https://linkedin.com/in/sunnnnnus) 與我聯絡  
-📁 查看更多履歷與作品：[CakeResume](https://www.cake.me/me/weiweisun)
